@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-=4i_z_!=!q93w&mexz*_dnk@0=)kfe(0ch(=ke3@001m5-eq+m
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["privacynemesis.pythonanywhere.com"]
+ALLOWED_HOSTS = ["cybersentinel.fr", "www.cybersentinel.fr", "192.168.1.26",]
 
 
 # Application definition
